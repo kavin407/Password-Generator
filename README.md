@@ -1,5 +1,6 @@
 # Password-Generator
 This project is made in Python for beginers to practice it and build their knowledge in Python
+
 Password Manager 🔐 A simple and secure password management tool designed to help users store, organize, and access their credentials safely.
 Features
 Secure storage using encryption
